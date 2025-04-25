@@ -46,3 +46,11 @@ To design a dictionary governance model. How are entries added? Who proposes the
 
 To develop AI parsing methodology against the dictionary. Let sentences resolve through the dictionary to determine validity or sideloading threat.
 
+# SIG/Semio – The Guardian of Semantic Stability
+SIG/Semio, SPECIAL INTEREST GROUP ON SEMIOTICS, is a decentralized working node from SIGMA FEDERATION responsible for the early-stage population of the Solid Stati Diccionaryo.
+Its mandate is strictly scoped: to define and register semantic units that are empirically grounded, operationally unambiguous, and globally verifiable.
+SIG/Semio does not define values, beliefs, or cultural idioms.
+Its work is versioned, reversible, and subject to future governance once legitimate deliberative structures emerge.
+
+## Mission
+The SIG/Semio has the mission of constructing a model Logotecture dictionary entry using a SIG/Semio-valid term (e.g., “mass” or “consent”). Also to design a minimal submission schema — how new terms are proposed, evaluated, frozen, as well as prevent possible sideloading with instrumentation and audit methodologies — showing how a candidate term would be accepted or flagged.
