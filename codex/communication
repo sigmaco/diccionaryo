@@ -1,0 +1,77 @@
+# Term: communication
+
+## v1.0.0
+
+**Definition**  
+**Communication** is the intentional or unintentional transmission of information from one agent to another, resulting in interpretation, reaction, or shared understanding. It requires a sender, a medium, a message, and a receiver—along with a system of encoding and decoding that allows meaning to be carried and recognized. Communication is both a technical process and a semantic/social act.
+
+**Domain**: linguistics, computing, sociology, psychology, systems theory  
+**Forms**: communication (noun), communicate (verb), communicative (adj), communicator (noun)
+
+**Depends on**:  
+- **information@1.0.0**  
+- **agent@1.0.0**  
+- **signal@1.0.0**  
+- **context@1.0.0**  
+- **language@1.0.0**
+
+---
+
+### 🔍 Core Characteristics
+
+- **Bidirectional Potential**: Even when initiated one-way, communication often implies **feedback**, correction, or clarification. It is a **relational** process.
+
+- **Medium-Dependent**: It uses various channels—text, speech, visual, gestural, digital—each with strengths, limitations, and cultural dependencies.
+
+- **Encoded and Interpreted**: Meaning is **not in the message itself**, but in the alignment between encoding (by the sender) and decoding (by the receiver). Misalignment leads to misunderstanding.
+
+- **Semantic Load**: Communication is **not** just transmission—it also conveys values, tone, intent, emotion, and context.
+
+- **Context-Sensitive**: The same signal may communicate different meanings in different settings. Communication relies heavily on shared or assumed context.
+
+---
+
+### 🚧 Exclusions
+
+- **Raw Emission**: Broadcasting without a plausible receiver or without structured encoding isn’t communication—it’s output or signal spam.
+
+- **Noise**: Interference or distortion may carry energy but not meaning; thus, it’s not communication unless some intended interpretation persists.
+
+- **Perfect Understanding Not Required**: Communication **can occur** even if only partial meaning is shared—but some degree of interpretive alignment must result.
+
+---
+
+### 💣 Sideloading Risk
+
+High.  
+- Communication is often claimed as “successful” when only power has been exerted or noise has been repeated. This hides the **failure of comprehension** or **consent**.
+
+Invalid examples:
+- “We communicated our decision clearly.” → But if the receiver had no interpretive access (due to jargon, language, exclusion), it wasn’t communication.
+- “The law is public, so people are informed.” → Visibility ≠ comprehensibility; mere presence doesn’t equal meaningful communication.
+
+---
+
+### 🔁 Variants
+
+- `communication.direct`: Unambiguous, clear message from one agent to another with intentionality and minimal interference.
+
+- `communication.indirect`: Relies on implication, context, or cultural inference. Often powerful but prone to misinterpretation.
+
+- `communication.systemic`: Flows within systems—like bureaucracies, legal codes, or technical protocols—where the sender may be distributed or anonymous.
+
+- `communication.symbolic`: Uses signs, metaphors, or archetypes to encode meaning across deeper or layered contexts (e.g. rituals, brand language, protest art).
+
+- `communication.machine`: Digital or AI-mediated communication, where messages may be parsed, generated, or interpreted by non-human agents.
+
+- `communication.failed`: Occurs when intended meaning is blocked, distorted, or interpreted in conflict with the sender’s intent or the system’s assumptions.
+
+---
+
+### 🔐 Governance Notes
+
+- **Access =/= Communication**: For policy or legal systems, **true communication** requires not just message availability but **cognitive and linguistic accessibility**.
+
+- **Power in Framing**: Whoever defines the terms of communication (language, platform, allowable formats) shapes what ideas can be shared and understood. This must be openly acknowledged in any semantic justice system.
+
+- **Consent in Communication**: Just because a message was “received” doesn’t mean it was **understood**, **agreed to**, or **engaged with meaningfully**.
