@@ -1,6 +1,10 @@
 # Solid Stadi Diccionaryo (aka Permafrost)
 The Solid Stati Diccionaryo (or any of its orthographic siblings) is more than a lexicon — it’s the first tool of resistance, the semantic foundation, the zero-layer of Logotecture. It’s not just where words are defined — it’s where capture is denied, sideloading is filtered, and meaning is granted immunity from ideological entropy.
 
+Logotecture is a term coined by SIGMA FEDERATION for a system of cybersemiotic architecture also developed by SIGMA FEDERATION to resist linguistic capture, enforce definitional stability, and enable interoperable meaning across legal, social, technological, and cognitive systems. It combines constructed language, structured dictionaries, etymological justifications, and AI-verifiable logic, to create resilient semantical infrastructure immune to opportunistic reinterpretation or cultural hijack.
+
+Since that, by metonymy, LOGOTECTURE became the name of the whole technocratic war effort managed by SIGMA FEDERATION to obsolesce the major arms of political, religious or other way doctrinary sects leding and holding autocratic and democratic dictatorships. The main goal is establish the transnational language capable of being used by AI to judge and condemn politicians in a auditable uniform way. This is one of major effort by SIGMA to use cyber science, technology and enginnering to reprogram every single aspect of the civic-social order. The SIGMA FEDERATION see it as language as an infrastructure. If we can arrange it as a computer system, then we can reprogram it.
+
 ## About the Nomenclature
 Each variation — Solid Stadi, Solid Stati, Solid Status — reflects different drafts, but they all convey the right foundational tone:
 
