@@ -1,0 +1,76 @@
+# Term: functionality
+
+## v1.0.0
+
+**Definition**  
+**Functionality** refers to the ability of a system, component, tool, or structure to perform its intended purpose effectively and reliably. It is both a measure of **operational integrity** and a reflection of **designed behavior**. In Logotecture, functionality also implies semantic and ethical **clarity of role**: what something is meant to do, why it exists, and under what conditions it is considered to be operating correctly. A functional element **fulfills its mandate without contradiction, obstruction, or misuse**.
+
+**Domain**: systems design, engineering, governance, semantics, software, legal theory  
+**Forms**: functionality (noun), functional (adj), to function (verb)
+
+**Depends on**:  
+- **structure@1.0.0**  
+- **purpose@1.0.0**  
+- **integrity@1.0.0**  
+- **clarity@1.0.0**
+
+---
+
+### 🔍 Core Characteristics
+
+- **Purpose-Aligned**: A functional element fulfills the **specific role** for which it was designed. This implies a clearly defined objective and measurable success criteria.
+
+- **Operational Integrity**: Functionality assumes internal **consistency**, where all parts or parameters of a thing cooperate to produce expected outcomes.
+
+- **Interoperability**: Especially in complex or modular systems, functionality includes the **ability to interact** with other components or systems without failure or semantic conflict.
+
+- **Resilience Under Load**: A truly functional system maintains performance even under variable, unexpected, or high-stress conditions.
+
+- **Traceability**: In systems like Logotecture, functionality must be **observable**, **documented**, and, when possible, **machine-verifiable**. This allows for auditing, error tracking, and evolution.
+
+---
+
+### 🚧 Exclusions
+
+- **Symbolic Roles Only**: Something that is present only for show or tradition but has no operational effect is **non-functional**, even if it's culturally meaningful.
+
+- **Malfunctioning Systems**: Elements that distort, obstruct, or betray their intended purpose are not considered functional, regardless of their formal presence.
+
+- **Unclear Purpose**: If something's role or target output is undefined or ambiguous, it lacks measurable functionality—even if it “works” in a broad sense.
+
+---
+
+### 💣 Sideloading Risk
+
+Moderate.  
+- **Functionality** is often **claimed** rhetorically to justify the presence of a system, rule, or tool that doesn't actually serve its stated purpose—or serves a **different** one altogether.
+
+Invalid examples:
+- “This voting system is fully functional.” → If it disenfranchises or skews results through opaque mechanics, it's **malfunctional**, even if votes are counted.
+- “The court is functioning.” → If rulings are inconsistent, delayed, or politically leveraged, then **legitimacy of function** must be questioned.
+
+---
+
+### 🔁 Variants
+
+- `functionality.core`: The essential operations or features without which a system **fails its identity**. Often aligned with "minimum viable operation."
+
+- `functionality.secondary`: Additional features that **enhance or support** primary functions but are not mission-critical.
+
+- `functionality.latent`: Built-in capacity or behavior that is **not always active**, but may be triggered under certain conditions or contexts.
+
+- `functionality.compromised`: A state where a system operates, but **below threshold**, or with flaws that reduce its intended impact or fairness.
+
+- `functionality.deceptive`: The appearance of proper operation that **masks misuse**, **manipulation**, or **disguised failure**. Common in political and legal regimes.
+
+---
+
+### 🔐 Governance Notes
+
+- **Functionality must be declared**: Systems and structures must have **openly stated roles**, and these must align with their actual behavior.
+
+- **Functionality must be audited**: Operational performance should be **verifiable**, especially in critical systems like law, finance, and language itself.
+
+- **Functionality over form**: In Logotecture, semantic and systemic design must prioritize **functional clarity** over cultural or traditional aesthetic. Obscured systems are vulnerable to misuse.
+
+- **Functionality must be fair**: It's not enough to perform as designed—systems must function in **equitable** ways that avoid exclusion, distortion, or privilege entrenchment.
